@@ -9,3 +9,14 @@ Trail pit locations https://www.researchgate.net/publication/410665714_Preconstr
  Elevation (DEM)https://en-ng.topographic-map.com/place-4d2pnh/Oyo-State/
  settlement-GRID3 Nigeria: For localized spatial planning and country-specific settlement data, explore data available via GRID3 Nigeria Portal. [1] 
 Road- GRID3 Nigeria: For localized spatial planning and country-specific settlement data, explore data available via GRID3 Nigeria Portal. [1] 
+THE purpose of this study, the hypothetical site is assumed to be intended for a two-storey residential building. The building is assumed to impose foundation loads on the underlying cohesive soil.
+The investigation will focus on the near-surface and underlying soil strata that may influence the performance of the proposed foundations.
+Expected Results
+The investigation is expected to produce:
+Liquid Limit values.
+Plastic Limit values.
+Plasticity Index values.
+Unconfined Compressive Strength values.
+Soil classification based on plasticity characteristics.
+An assessment of the relative strength of the cohesive soil.
+An interpretation of the implications of the results for foundation construction.
