@@ -8,3 +8,4 @@ The boundary of the study GRID3 Nigeria: The geographic and settlement datasets 
 Trail pit locations https://www.researchgate.net/publication/410665714_Preconstruction_investigation_of_soil_plasticity_index_and_unconfined_compressive_strength_of_a_hypothetical_building_site
  Elevation (DEM)https://en-ng.topographic-map.com/place-4d2pnh/Oyo-State/
  settlement-GRID3 Nigeria: For localized spatial planning and country-specific settlement data, explore data available via GRID3 Nigeria Portal. [1] 
+Road- GRID3 Nigeria: For localized spatial planning and country-specific settlement data, explore data available via GRID3 Nigeria Portal. [1] 
