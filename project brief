@@ -2,3 +2,22 @@
 Geotechnical Assessment of Soil Plasticity and Undrained Shear Strength for Pre-Construction Evaluation of a Proposed Building Site
 Project Overview
 This project presents a preliminary geotechnical assessment of the soil conditions at a hypothetical building site prior to construction. The study focuses on two important engineering characteristics of cohesive soil: soil plasticity and undrained shear strength.
+Spatial Research Question
+How do spatial variations in soil characteristics, terrain, drainage, land use, and proximity to settlements and roads influence the selection and preliminary geotechnical suitability of a proposed building site in Oyo State, Nigeria?
+The study area
+The proposed study will be conducted within Oyo State in southwestern Nigeria
+(OyoGISS): https://lands.oyostate.gov.ng/oyo-giss.html?utm_source=chatgpt.com
+The data set required (1) The spatial data sets (2) The Geological data sets (3) Supporting data sets
+Oyo State Administrative Boundary:https://grid3.org/geospatial-data-nigeria?utm_source=chatgpt.com
+LGA Boundaries:https://grid3.org/geospatial-data-nigeria?utm_source=chatgpt.com
+Settlement Data:https://grid3.org/geospatial-data-nigeria?utm_source=chatgpt.com
+Road Network:https://grid3.org/geospatial-data-nigeria?utm_source=chatgpt.com
+Digital Elevation Model (DEM):https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM?utm_source=chatgpt.com
+Slope Dataset: Derived from DEM-Source:Copernicus DEM GLO-30.
+Drainage/River Network:https://www.hydrosheds.org/products?utm_source=chatgpt.com
+Soil Properties:ISRIC soil grid:https://isric.org/explore/soilgrids?utm_source=chatgpt.com,soil Grid data:https://files.isric.org/soilgrids/latest/data/?utm_source=chatgpt.com
+Geological Data:https://ngsa.gov.ng/sheet-241-oyo-ne/?utm_source=chatgpt.com
+Land Use/Land Cover:https://esa-worldcover.org/en/data-access?utm_source=chatgpt.com
+Rainfall:https://www.chc.ucsb.edu/data/chirps3?utm_source=chatgpt.com
+Geotecnical data set
+Plasticity Index,Unconfined compressive strength, Trail pit locations
